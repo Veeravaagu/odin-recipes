@@ -1,0 +1,41 @@
+
+.image {
+        width: 500px;
+        height: auto;
+    }
+
+ol, .sub-heading {
+
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ul-sub-heading {
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    font-size: medium;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.description-heading {
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.footer-heading {
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.main-menu-sub-heading {
+
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
